@@ -39,5 +39,21 @@
     "systemjs": "0.19.17",
     "typescript": "1.7.5",
     "typings": "0.6.8"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmartinsba/hungry-workers.git"
+  },
+  "keywords": [
+    "angular2",
+    "karma",
+    "jasmine",
+    "istanbul",
+    "unit-testing",
+    "typescript"
+  ],
+  "bugs": {
+    "url": "https://github.com/fmartinsba/hungry-workers/issues"
+  },
+  "homepage": "https://github.com/fmartinsba/hungry-workers#readme"
 }
